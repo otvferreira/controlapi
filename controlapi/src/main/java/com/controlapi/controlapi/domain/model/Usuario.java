@@ -1,7 +1,7 @@
 package com.controlapi.controlapi.domain.model;
 
 import com.controlapi.controlapi.domain.model.tipos.GrupoUsuario;
-import jakarta.persistence.*;
+import javax.persistence.*;
 import lombok.*;
 import org.hibernate.annotations.CreationTimestamp;
 
